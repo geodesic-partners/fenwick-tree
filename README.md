@@ -20,6 +20,6 @@ Node i covers the stretch of the array that ends at i and is as long as its lowe
 
 ## More practice
 
-Coding interview problems with worked solutions in six languages, including prefix sums: https://geodesicpartners.co.uk/coding-interview-course
+Coding interview problems with worked solutions in six languages, including prefix sums: https://academicquant.co.uk/coding-interview-course
 
 MIT licence.
